@@ -1,7 +1,7 @@
 [![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)](https://ganeshbehera012.github.io)
 
 <h1 align="center">Hi 👋, I'm Prakhar Pathak</h1>
-<h3 align="center">I'm a passionate full-stack developer from India learning about the ability to write efficient code using MERN stack with a flair of creating elegant solutions in the least amount of time. I'm always curious to learn new things and I always try to be the change, I want in others. I love to completely dedicate myself to develop innovative products.</h3>
+<h3 align="center">I'm a passionate full-stack developer from India, learning about the ability to write efficient code using MERN stack with a flair of creating elegant solutions in the least amount of time. I'm always curious to learn new things and I always try to be the change, I want in others. I love to completely dedicate myself to develop innovative products.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Prakhar9450&label=Profile%20views&color=0e75b6&style=flat" alt="Prakhar9450" /> </p>
 
