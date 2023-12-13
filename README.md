@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Prakhar Pathak</h1>
 <h3 align="center">I'm a passionate full-stack developer from India, learning about the ability to write efficient code using MERN stack with a flair of creating elegant solutions in the least amount of time. I'm always curious to learn new things and I always try to be the change, I want in others. I love to completely dedicate myself to develop innovative projects.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Prakhar9450&label=Profile%20views&color=0e75b6&style=flat" alt="Prakhar9450" /> </p>
-
 - 🌱 I’m currently learning **MERN Stack**
   
 - 💬 Ask me about **JavaScript, React, C++ ,Nodejs**
