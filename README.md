@@ -1,5 +1,5 @@
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" />
-<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" />
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="23%" />
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="23%" />
 
 <h1 align="center">Hi 👋, I'm Prakhar Pathak</h1>
 <h3 align="center">A Passionate Full-Stack Developer from India</h3>
@@ -8,7 +8,7 @@
 
 <p align="center">
   🌱 Currently learning <b>JavaScript, Next.js, WebSocket</b><br/>
-  💬 Ask me about <b>Node.js, Express.js</b><br/>
+  💬 Ask me about <b>Node.js, Express.js</b><br/>z
   📫 Reach me at <b>prakharpathak9450@gmail.com</b>
 </p>
 
