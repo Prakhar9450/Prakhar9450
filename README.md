@@ -8,7 +8,7 @@
 
 <p align="center">
   🌱 Currently learning <b>JavaScript, Next.js, WebSocket</b><br/>
-  💬 Ask me about <b>Node.js, Express.js</b><br/>z
+  💬 Ask me about <b>Node.js, Express.js</b><br/>
   📫 Reach me at <b>prakharpathak9450@gmail.com</b>
 </p>
 
